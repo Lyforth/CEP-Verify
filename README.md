@@ -3,4 +3,4 @@ Um verificador de CEP simples via console
 
 ## Preview
 
-[](img/preview.png)
+![](img/preview.png)
