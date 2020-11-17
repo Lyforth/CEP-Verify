@@ -1,2 +1,2 @@
 # CEP Verify
-Um verificador de CEP simples via console
+Um verificador de CEP simples
